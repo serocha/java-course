@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/AreaCalculatorChallenge/AreaCalculatorChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/AreaCalculatorChallenge/AreaCalculatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-6-classes/BankAccountChallenge/BankAccountChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-6-classes/BankAccountChallenge/BankAccountChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/BarkingDog/BarkingDog.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/BarkingDog/BarkingDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-3-data-types/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/JDK-11/section-3-data-types/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-6-classes/CarpetCostCalculatorChallenge/CarpetCostCalculatorChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-6-classes/CarpetCostCalculatorChallenge/CarpetCostCalculatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-3-data-types/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/JDK-11/section-3-data-types/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-6-classes/Classes/Classes.iml" filepath="$PROJECT_DIR$/JDK-11/section-6-classes/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-6-classes/ComplexOperationsChallenge/ComplexOperationsChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-6-classes/ComplexOperationsChallenge/ComplexOperationsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/DecimalComparator/DecimalComparator.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/DecimalComparator/DecimalComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/DiagonalStarChallenge/DiagonalStarChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/DiagonalStarChallenge/DiagonalStarChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/DiffMerge/DiffMerge.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/DiffMerge/DiffMerge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/DigitSumChallenge/DigitSumChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/DigitSumChallenge/DigitSumChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/EqualSumChecker/EqualSumChecker.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/EqualSumChecker/EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/EvenDigitSumChallenge/EvenDigitSumChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/EvenDigitSumChallenge/EvenDigitSumChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/FactorPrinterChallenge/FactorPrinterChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/FactorPrinterChallenge/FactorPrinterChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/FirstAndLastDigitSumChallenge/FirstAndLastDigitSumChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/FirstAndLastDigitSumChallenge/FirstAndLastDigitSumChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-3-data-types/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/JDK-11/section-3-data-types/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-3-data-types/FloatAndDoubleChallenge/FloatAndDoubleChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-3-data-types/FloatAndDoubleChallenge/FloatAndDoubleChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/FlourPackProblemChallenge/FlourPackProblemChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/FlourPackProblemChallenge/FlourPackProblemChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/For/For.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/For/For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/GreatestCommonDivisorChallenge/GreatestCommonDivisorChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/GreatestCommonDivisorChallenge/GreatestCommonDivisorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-3-data-types/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/JDK-11/section-3-data-types/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-6-classes/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/JDK-11/section-6-classes/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/InputCalculatorChallenge/InputCalculatorChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/InputCalculatorChallenge/InputCalculatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/IntEqualityPrinterChallenge/IntEqualityPrinterChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/IntEqualityPrinterChallenge/IntEqualityPrinterChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/LargestPrimeChallenge/LargestPrimeChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/LargestPrimeChallenge/LargestPrimeChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/LastDigitCheckerChallenge/LastDigitCheckerChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/LastDigitCheckerChallenge/LastDigitCheckerChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/MegaBytesConverter/MegaBytesConverter.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/MegaBytesConverter/MegaBytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/Methods/Methods.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/MinAndMaxChallenge/MinAndMaxChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/MinAndMaxChallenge/MinAndMaxChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/NumberInWordChallenge/NumberInWordChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/NumberInWordChallenge/NumberInWordChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/NumberOfDaysInMonthChallenge/NumberOfDaysInMonthChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/NumberOfDaysInMonthChallenge/NumberOfDaysInMonthChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/NumberPalindromeChallenge/NumberPalindromeChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/NumberPalindromeChallenge/NumberPalindromeChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/NumberToWordsChallenge/NumberToWordsChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/NumberToWordsChallenge/NumberToWordsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-3-data-types/OperatorChallenge/OperatorChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-3-data-types/OperatorChallenge/OperatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-3-data-types/Operators/Operators.iml" filepath="$PROJECT_DIR$/JDK-11/section-3-data-types/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/PaintJobChallenge/PaintJobChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/PaintJobChallenge/PaintJobChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/ParsingValuesFromString/ParsingValuesFromString.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/ParsingValuesFromString/ParsingValuesFromString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/PerfectNumberChallenge/PerfectNumberChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/PerfectNumberChallenge/PerfectNumberChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-6-classes/PersonChallenge/PersonChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-6-classes/PersonChallenge/PersonChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/PlayingCatChallenge/PlayingCatChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/PlayingCatChallenge/PlayingCatChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-6-classes/PointChallenge/PointChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-6-classes/PointChallenge/PointChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-3-data-types/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-3-data-types/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/ReadingUserInputChallenge/ReadingUserInputChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/ReadingUserInputChallenge/ReadingUserInputChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/SampleCodingExercise/SampleCodingExercise.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/SampleCodingExercise/SampleCodingExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/SharedDigitChallenge/SharedDigitChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/SharedDigitChallenge/SharedDigitChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/StatementsWhitespaceAndIndenting/StatementsWhitespaceAndIndenting.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/StatementsWhitespaceAndIndenting/StatementsWhitespaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-3-data-types/Strings/Strings.iml" filepath="$PROJECT_DIR$/JDK-11/section-3-data-types/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-6-classes/SumCalculatorChallenge/SumCalculatorChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-6-classes/SumCalculatorChallenge/SumCalculatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/SumOddChallenge/SumOddChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/SumOddChallenge/SumOddChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/SumThreeAndFiveChallenge/SumThreeAndFiveChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/SumThreeAndFiveChallenge/SumThreeAndFiveChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/Switch/Switch.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/TeenNumberChecker/TeenNumberChecker.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/TeenNumberChecker/TeenNumberChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-6-classes/WallAreaChallenge/WallAreaChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-6-classes/WallAreaChallenge/WallAreaChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-5-control-flow/WhileAndDo/WhileAndDo.iml" filepath="$PROJECT_DIR$/JDK-11/section-5-control-flow/WhileAndDo/WhileAndDo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK-11/section-4-methods/YearsAndDaysChallenge/YearsAndDaysChallenge.iml" filepath="$PROJECT_DIR$/JDK-11/section-4-methods/YearsAndDaysChallenge/YearsAndDaysChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-masterclass.iml" filepath="$PROJECT_DIR$/.idea/java-masterclass.iml" />
+    </modules>
+  </component>
+</project>
