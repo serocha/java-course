@@ -5,8 +5,8 @@ import java.util.ListIterator;
 
 public class Playlist {
 
-    String name;
-    LinkedList<Song> playlist;
+    private final String name;
+    private final LinkedList<Song> playlist;
 
     public Playlist(String name) {
         this.name = name;
@@ -21,9 +21,13 @@ public class Playlist {
                 1 --> Next Song
                 2 --> Previous Song
                 3 --> Repeat
-                4 --> Delete from Playlist""";
+                4 --> List All Songs
+                5 --> Delete from Playlist
+                6 --> Repeat this Menu
+                """;
         ListIterator<Song> songListIterator = playlist.listIterator();
         Song currentSong = songListIterator.next();
+        System.out.println(menuOptions);
         System.out.println("Now playing:\n" + currentSong.toString());
         while(isRunning) {
             int input = Main.scanner.nextInt();
@@ -74,6 +78,12 @@ public class Playlist {
                     System.out.println("Now playing:\n" + currentSong);
                 }
                 case 4 -> {
+                    System.out.println("List of tracks in " + name);
+                    for (Song song : playlist) {
+                        System.out.println(song.getTitle() + " by " + song.getArtist() + ": " + song.getDuration());
+                    }
+                }
+                case 5 -> {
                     System.out.println("Deleting " + currentSong.getTitle() + " from playlist");
                     songListIterator.remove();
                     if (songListIterator.hasNext()) {
@@ -89,7 +99,7 @@ public class Playlist {
                         isRunning = false;
                     }
                 }
-                case 5 -> System.out.println(menuOptions);
+                case 6 -> System.out.println(menuOptions);
                 default -> System.out.println("Something went wrong...");
             }
         }
@@ -105,10 +115,6 @@ public class Playlist {
         } else {
             System.out.println("Song already in playlist.");
         }
-    }
-
-    public void deleteFromPlaylist(String songName) {
-
     }
 
     private Song findSong(String songTitle) {

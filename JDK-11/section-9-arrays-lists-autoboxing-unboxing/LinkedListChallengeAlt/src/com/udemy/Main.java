@@ -1,6 +1,6 @@
 package com.udemy;
 
-/*      Slightly different assignment from other playlist challenge
+/*      Slightly different assignment from the other playlist challenge
 
         Implement a playlist for songs
         Song and album class, albums stored in an ArrayList
