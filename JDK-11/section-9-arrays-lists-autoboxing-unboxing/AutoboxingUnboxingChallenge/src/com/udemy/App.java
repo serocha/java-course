@@ -273,8 +273,8 @@ public class App {
         double input;
         while (true) {
             System.out.print(prompt);
-            if (scanner.hasNextInt()) {
-                input = scanner.nextInt();
+            if (scanner.hasNextDouble()) {
+                input = scanner.nextDouble();
                 scanner.nextLine(); // clear buffer after int input
                 if (input > 0 && input > minimumValue) {
                     break;
