@@ -78,7 +78,7 @@ public class BankAccount {
             System.out.println("No deposit. Transaction cancelled.");
         }else if (deposit > 0 && (deposit == (deposit*100)/100)) {
             this.balance += deposit;
-            System.out.println("$" + deposit + " deposited to account. New balance is $" + this.balance + ".");
+            System.out.println("$" + deposit + " deposited to account. New balance is $" + this.balance + "");
         } else {
             System.out.println("Invalid deposit: " + deposit);
         }
@@ -89,7 +89,7 @@ public class BankAccount {
             System.out.println("Insufficient funds.");
         } else if (withdrawal > 0 && (withdrawal == (withdrawal*100)/100)) {
             this.balance -= withdrawal;
-            System.out.println("$" + withdrawal + " withdrawn from account. New balance is $" + this.balance + ".");
+            System.out.println("$" + withdrawal + " withdrawn from account. New balance is $" + this.balance + "");
         } else {
             System.out.println("Invalid withdrawal: " + withdrawal);
         }
