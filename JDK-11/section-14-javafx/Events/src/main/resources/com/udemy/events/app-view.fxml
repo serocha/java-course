@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<GridPane alignment="CENTER" hgap="10.0" vgap="10.0" xmlns:fx="http://javafx.com/fxml"
+          fx:controller="com.udemy.events.AppController">
+    <TextField GridPane.rowIndex="0" GridPane.columnIndex="0" fx:id="nameField"
+        onKeyReleased="#handleKeyReleased"/>
+    <Button text="Say Hello" fx:id="helloButton" GridPane.rowIndex="1" GridPane.columnIndex="0" onAction="#onButtonClicked"/>
+    <Button text="Say Goodbye" fx:id="goodbyeButton" GridPane.rowIndex="1" GridPane.columnIndex="1" onAction="#onButtonClicked"/>
+    <CheckBox text="Clear the field after pressing button?" fx:id="clearField"
+              GridPane.rowIndex="2" GridPane.columnIndex="0" />
+    <Label fx:id="simulatedData" text="Nothing to see here..." GridPane.rowIndex="3" GridPane.columnIndex="0"/>
+</GridPane>

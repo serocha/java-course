@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.StackPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<StackPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.layouts.HelloController">
+    <Button text="Button One" style="-fx-background-color: red"/>
+    <Label text="The label text" style="-fx-background-color: green"/>
+    <Label text="The second label text" style="-fx-background-color: blue"/>
+</StackPane>
+
+
+<!--<TilePane xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.layouts.HelloController" hgap="5" vgap="5">-->
+
+<!--    <Button text="Button One" prefWidth="95"/>-->
+<!--    <Button text="Button Two" prefWidth="95"/>-->
+<!--    <Button text="Button Three" prefWidth="95"/>-->
+<!--    <Button text="Button Four" prefWidth="95"/>-->
+<!--    <Button text="Button Five" prefWidth="95"/>-->
+<!--    <Button text="Button Six" prefWidth="95"/>-->
+<!--    <Button text="Button Seven" prefWidth="95"/>-->
+<!--    <Button text="Button Eight" prefWidth="95"/>-->
+<!--    <Button text="Button Nine" prefWidth="95"/>-->
+<!--    <Button text="Button Ten" prefWidth="95"/>-->
+<!--    <Button text="Button Eleven" prefWidth="95"/>-->
+<!--    <Button text="Button Twelve" prefWidth="95"/>-->
+<!--</TilePane>-->
+
+        <!--<?import javafx.scene.control.Button?>-->
+<!--<?import javafx.scene.layout.HBox?>-->
+<!--<?import javafx.scene.layout.BorderPane?>-->
+<!--<?import javafx.geometry.Insets?>-->
+<!--<?import javafx.scene.control.Label?>-->
+
+<!--<BorderPane xmlns:fx="http://javafx.com/fxml"-->
+<!--            fx:controller="com.example.layouts.HelloController">-->
+<!--    <top>-->
+<!--        <Label text="This label is in the top position" alignment="CENTER" BorderPane.alignment="CENTER"-->
+<!--            style="-fx-border-color: blue; -fx-border-width: 3; -fx-border-style: dashed"/>-->
+<!--    </top>-->
+<!--    <center>-->
+<!--        <Label text="This label is in the center position and has really looooooooooooooooooooooooooooong text"/>-->
+<!--    </center>-->
+<!--    <left>-->
+<!--        <Label text="This label is in the left position" alignment="CENTER"/>-->
+<!--    </left>-->
+<!--    <right>-->
+<!--        <Label text="This label is in the right position" alignment="CENTER"/>-->
+<!--    </right>-->
+<!--    <bottom>-->
+<!--        &lt;!&ndash; as HBox is nested within the <bottom> position, <bottom> specifies the layout of elements within it &ndash;&gt;-->
+<!--        <HBox spacing="10" alignment="CENTER_RIGHT" BorderPane.alignment="BOTTOM_RIGHT">-->
+<!--            <padding>-->
+<!--                <Insets bottom="10" right="10"/>-->
+<!--            </padding>-->
+<!--            <Button text="Okay" prefWidth="90"/>-->
+<!--            <Button text="Cancel" prefWidth="90"/>-->
+<!--            <Button text="Help" prefWidth="90"/>-->
+<!--        </HBox>-->
+<!--    </bottom>-->
+<!--</BorderPane>-->
+
