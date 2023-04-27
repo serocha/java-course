@@ -1,0 +1,10 @@
+Lunch with Bill	Set up a time and place to meet with Bill about his new goat.	20-12-2022
+Doctor's appointment	Go to Doc Brown's office to discuss temporal side effects. Mention the DeLorean.	14-01-2023
+Cliff diving party	Celebrate Cindy's birthday party at Abiquiu Lake. Might want to ask her about low water level.	03-02-2023
+Competitive Bingo club meeting	Set up the garage for the Bingo tournament. Bring extra salt.	09-02-2023
+Shady business deal	Meet the weird man under the overpass to receive the package. Drop it off at the post office.	19-02-2023
+Event Past Due	This event has expired	08-12-2022
+Potato toss	Go out with the boys to launch some spuds.	19-01-2023
+Event Due	This event should show red on today's date	16-12-2022
+Event Almost Due	This should display a warning color	17-12-2022
+Month Filter	This is 30 days away	15-01-2023

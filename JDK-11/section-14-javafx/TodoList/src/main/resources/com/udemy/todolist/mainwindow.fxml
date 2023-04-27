@@ -1,30 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.layout.BorderPane?>
-<?import javafx.scene.control.ListView?>
-<?import javafx.scene.control.TextArea?>
-<?import javafx.scene.layout.VBox?>
-<?import javafx.scene.layout.HBox?>
-<?import javafx.scene.control.Label?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
 <?import javafx.scene.text.Font?>
-<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.udemy.todolist.Controller">
+<?import java.lang.String?>
+<BorderPane fx:id="mainBorderPane"
+            xmlns:fx="http://javafx.com/fxml" fx:controller="com.udemy.todolist.Controller">
+    <top>
+        <VBox>
+            <MenuBar>
+                <Menu text="File">
+                    <MenuItem text="New Event..." onAction="#showNewItemDialog"/>
+                    <SeparatorMenuItem/>
+                    <MenuItem text="Exit" onAction="#exitHandler"/>
+                </Menu>
+                <Menu text="Edit">
+                    <MenuItem text="Edit Current Event" onAction="#menuEditItem"/>
+                    <SeparatorMenuItem/>
+                    <MenuItem text="Delete Event" onAction="#menuDeleteItem"/>
+                </Menu>
+            </MenuBar>
+            <ToolBar>
+                <HBox spacing="5">
+                    <Button onAction="#showNewItemDialog">
+                        <tooltip>
+                            <Tooltip text="Add New Event"/>
+                        </tooltip>
+                        <graphic>
+                            <ImageView>
+                                <Image url="@/toolbarButtonGraphics/general/New24.gif"/>
+                            </ImageView>
+                        </graphic>
+                    </Button>
+                    <ComboBox maxWidth="105" prefHeight="32" fx:id="filterOption" onAction="#filterHandler">
+                        <tooltip>
+                            <Tooltip text="Filter Events"/>
+                        </tooltip>
+                        <items>
+                            <FXCollections fx:factory="observableArrayList">
+                                <String fx:value="Filter..."/>
+                                <String fx:value="Today"/>
+                                <String fx:value="This Week"/>
+                                <String fx:value="This Month"/>
+                            </FXCollections>
+                        </items>
+                        <value>
+                            <String fx:value="Filter..."/>
+                        </value>
+                    </ComboBox>
+                    <Button onAction="#clearFilterHandler">
+                        <tooltip>
+                            <Tooltip text="Clear Filter"/>
+                        </tooltip>
+                        <graphic>
+                            <ImageView>
+                                <Image url="@/toolbarButtonGraphics/general/Undo24.gif"/>
+                            </ImageView>
+                        </graphic>
+                    </Button>
+                </HBox>
+            </ToolBar>
+        </VBox>
+    </top>
     <left>
-        <ListView fx:id="todoListView">
-
+        <ListView fx:id="todoListView" onKeyPressed="#handleKeyPressed"
+                  style="-fx-font-size: 14; -fx-font-family: Calibri">
         </ListView>
     </left>
     <center>
         <VBox style="-fx-background-color: white">
-            <TextArea fx:id="itemDetailsTextArea" VBox.vgrow="ALWAYS"/>
+            <TextArea fx:id="itemDetailsTextArea" VBox.vgrow="ALWAYS" wrapText="true"/>
             <HBox>
-                <Label text="Deadline: " style="-fx-background-color: white">
+                <padding>
+                    <Insets left="8"/>
+                </padding>
+                <Label fx:id="deadlineDay">
                     <font>
-                        <Font name="Calibri bold" size="20"/>
+                        <Font name="Calibri" size="18"/>
                     </font>
                 </Label>
                 <Label fx:id="deadlineLabel" style="-fx-background-color: white">
                     <font>
-                        <Font name="Calibri bold" size="20"/>
+                        <Font name="Calibri" size="18"/>
                     </font>
                 </Label>
             </HBox>

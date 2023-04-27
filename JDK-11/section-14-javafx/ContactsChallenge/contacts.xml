@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Joe</first_name>
+	<last_name>Blow</last_name>
+	<phone_number>555-444-4545</phone_number>
+	<notes>Test</notes>
+</contact>
+</contacts>

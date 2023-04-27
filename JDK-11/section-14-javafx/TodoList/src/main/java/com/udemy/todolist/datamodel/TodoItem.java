@@ -37,8 +37,9 @@ public class TodoItem {
         this.deadline = deadline;
     }
 
-    @Override
-    public String toString() {
-        return shortDescription;
-    }
+//    This is now handled by the CellFactory in Controller
+//    @Override
+//    public String toString() {
+//        return shortDescription;
+//    }
 }
